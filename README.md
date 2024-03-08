@@ -20,7 +20,7 @@ This includes all relevant code for Chapter 6, Case study.
 
 
 #### /data
-This folder is empty, here we store our generated instances from instance_generation.py.
+This folder is empty, here we would store the generated instances from instance_generation.py.
 
 #### /data_case
 This folder includes the generated pickle files that we generate and use in case_study.py.
